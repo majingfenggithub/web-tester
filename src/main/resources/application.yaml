@@ -1,0 +1,10 @@
+##端口
+#server:
+#  port: 8090
+
+
+#spring jsckson
+spring:
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: Asia/Shanghai
